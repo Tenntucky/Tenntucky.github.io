@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sommelier Wine Predictions
+title: Markdown
 subtitle: Applying the Sommelier Deductive Tasting Format
 gh-repo: Tenntucky/Tenntucky.github
 gh-badge: [star, fork, follow]
